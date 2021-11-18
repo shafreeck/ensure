@@ -10,6 +10,6 @@ ensure curl http://example.com
 # ensure a file is created
 ensure test -f file-to-create
 
-# ensure a service being restarted when having a crash
+# ensure a service restarted when there is a crash
 ensure redis-server
 ```
