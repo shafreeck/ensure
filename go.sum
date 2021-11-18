@@ -1,0 +1,6 @@
+github.com/google/btree v1.0.0 h1:0udJVsspx3VBr5FwtLhQQtuAsVc79tTq0ocGIPAU6qo=
+github.com/google/btree v1.0.0/go.mod h1:lNA+9X1NB3Zf8V7Ke586lFgjr2dZNuvo3lPJSGZ5JPQ=
+github.com/shafreeck/cortana v0.0.0-20211116151644-4c914369c6cd h1:OLV1c2ljFMgTqsS/p7G6FplrD2oICyiHGt0cqdluUUM=
+github.com/shafreeck/cortana v0.0.0-20211116151644-4c914369c6cd/go.mod h1:rc+rrPHKy2vS6yXSmzdyRZzj8L8MKlEllIS5ptnSCz8=
+github.com/shafreeck/retry v0.0.0-20200211034702-ed002877bbba h1:lX7p44h16I+WmK49rftRkVoPH3byrozpY83jorgJyh4=
+github.com/shafreeck/retry v0.0.0-20200211034702-ed002877bbba/go.mod h1:/rwfMlE/fAuL8jl8SoprGt+YfGt/znGbF3Z9p2DO+iw=
