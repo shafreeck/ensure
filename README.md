@@ -1,6 +1,6 @@
 # Ensure a command to execute successfully
 
-ensure repeatly runs a command until it success.
+ensure repeatly runs a command until it succeeds.
 
 ## Example
 ```shell
