@@ -1,4 +1,4 @@
-# Ensure a command executes successfully
+# Ensure a command executed successfully
 
 ensure repeatly runs a command until it succeeds.
 
