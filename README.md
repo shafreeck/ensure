@@ -4,12 +4,12 @@ ensure repeatly runs a command until it success.
 
 ## Example
 ```shell
-# ensure a command to success when has a temprary network broken
+# ensure the success of a command when having a network broken
 ensure curl http://example.com
 
 # ensure a file is created
 ensure test -f file-to-create
 
-# ensure to restart when has a crash
+# ensure the daemon being restarted when having a crash
 ensure redis-server
 ```
